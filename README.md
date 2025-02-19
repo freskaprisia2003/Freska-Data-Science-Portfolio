@@ -1,1 +1,2 @@
-# Freska-Data-Science-Protfolio
+# Freska Prisia Putri - Data Science Portfolio
+# About
